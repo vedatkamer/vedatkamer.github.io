@@ -1,4 +1,4 @@
-# Bağlantılar
+# Vedat Kamer
 
 ## Asos'ta Felsefe
 
