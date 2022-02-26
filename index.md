@@ -1,5 +1,3 @@
-# Bağlantılar
-
 ## Asos'ta Felsefe
 
 * [Mantığın Sınıflandırılması İçin Bir Deneme](https://drive.google.com/file/d/1Rn4a-2qQY_dNk1UAgUOaNa8_gvmRvkWe/view?usp=sharing) ([PDF](https://drive.google.com/uc?export=download&id=1Rn4a-2qQY_dNk1UAgUOaNa8_gvmRvkWe))
@@ -14,7 +12,3 @@
 ## Diğer
 
 * [https://linktr.ee/vedatkamer](https://linktr.ee/vedatkamer)
-
-# E-posta
-
-* [vkamer@istanbul.edu.tr](mailto:vkamer@istanbul.edu.tr)
