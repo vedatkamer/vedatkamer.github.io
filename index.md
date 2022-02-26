@@ -14,3 +14,7 @@
 ## Diğer
 
 * [https://linktr.ee/vedatkamer](https://linktr.ee/vedatkamer)
+
+## E-posta
+
+* [vkamer@istanbul.edu.tr](mailto:vkamer@istanbul.edu.tr)
