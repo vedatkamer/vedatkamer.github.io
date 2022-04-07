@@ -15,5 +15,7 @@ Vedat Kamer is Asisstant Professor at Istanbul University, Faculty of Letters, D
 # Contact
 
 * E-mail: [vkamer@istanbul.edu.tr](mailto:vkamer@istanbul.edu.tr)
+* Instagram: [https://www.instagram.com/vedatkamer](https://www.instagram.com/vedatkamer)
+* LinkedIn: [https://www.linkedin.com/in/vedatkamer](https://www.linkedin.com/in/vedatkamer)
 * Telegram: [https://t.me/vedatkamer](https://t.me/vedatkamer)
 * Twitter: [https://twitter.com/VedatKamer](https://twitter.com/vedatkamer)
