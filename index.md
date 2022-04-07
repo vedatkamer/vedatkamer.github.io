@@ -11,8 +11,8 @@ Vedat Kamer is asisstant professor at Istanbul University, Faculty of Letters, D
 ## Literature, Music & Poetry
 
 * [https://kuzeyyildizi.com/kisiler/vedat.kamer](https://kuzeyyildizi.com/kisiler/vedat.kamer)
-* [https://www.last.fm/user/vedatkamer](https://www.last.fm/user/vedatkamer)
 * [https://open.spotify.com/user/vedat.kamer](https://open.spotify.com/user/vedat.kamer)
+* [https://www.last.fm/user/vedatkamer](https://www.last.fm/user/vedatkamer)
 
 # Contact
 
