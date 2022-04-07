@@ -6,6 +6,6 @@
 * [https://istanbul.academia.edu/VedatKamer](https://istanbul.academia.edu/VedatKamer)
 * [https://profil.istanbul.edu.tr/en/p/vkamer](https://profil.istanbul.edu.tr/en/p/vkamer)
 
-## Others
+## Other Links
 
 * [https://linktr.ee/vedatkamer](https://linktr.ee/vedatkamer)
