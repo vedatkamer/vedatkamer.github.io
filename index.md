@@ -1,3 +1,5 @@
+Vedat Kamer is Asisstant Professor at Istanbul University, Faculty of Letters, Department of Philosophy, Department of Logic.
+
 # Links
 
 ## Logic & Philosophy 
@@ -9,3 +11,9 @@
 ## Other Links
 
 * [https://linktr.ee/vedatkamer](https://linktr.ee/vedatkamer)
+
+# Contact
+
+* E-mail: [vkamer@istanbul.edu.tr](mailto:vkamer@istanbul.edu.tr)
+* Telegram: [https://t.me/vedatkamer](https://t.me/vedatkamer)
+* Twitter: [https://twitter.com/VedatKamer](https://twitter.com/vedatkamer)
