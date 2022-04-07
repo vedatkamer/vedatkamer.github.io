@@ -1,4 +1,4 @@
-Vedat Kamer is Asisstant Professor at Istanbul University, Faculty of Letters, Department of Philosophy, Department of Logic.
+Vedat Kamer is asisstant professor at Istanbul University, Faculty of Letters, Department of Philosophy, Department of Logic and studies artificial intelligence, informal logic, philosophy of logic and types of reasoning.
 
 # Links
 
