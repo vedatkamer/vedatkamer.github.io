@@ -4,9 +4,6 @@ Vedat Kamer is Assistant Professor at Istanbul University, Faculty of Letters, D
 
 ## Logic & Philosophy 
 
-* UNILOG 2022: Reconsidering Applications Provided in Logic Curriculums
-  * [PDF](https://drive.google.com/file/d/1o9JCgNX4BW7hOj92p6nZ5ZcRpLpCnpii/view?usp=sharing)
-  * [PPTX](https://docs.google.com/presentation/d/17xnTVF-ivw5BYtyMGm_6UXiSt8csK6pa/edit?usp=sharing&ouid=100511237078245175060&rtpof=true&sd=true)
 * [https://avesis.istanbul.edu.tr/vkamer](https://avesis.istanbul.edu.tr/vkamer)
 * [https://istanbul.academia.edu/VedatKamer](https://istanbul.academia.edu/VedatKamer)
 * [https://profil.istanbul.edu.tr/en/p/vkamer](https://profil.istanbul.edu.tr/en/p/vkamer)
