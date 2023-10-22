@@ -1,4 +1,4 @@
-Vedat Kamer is Assistant Professor at Istanbul University, Faculty of Letters, Department of Philosophy, Department of Logic and studies Applications of Logic, Artificial Intelligence, Informal Logic, Philosophy of Logic and Reasoning.
+![resim](https://github.com/vedatkamer/vedatkamer.github.io/assets/2077111/6e6ff39c-7686-4049-9674-fca5bcef48b3)Vedat Kamer is Assistant Professor at Istanbul University, Faculty of Letters, Department of Philosophy, Department of Logic and studies Applications of Logic, Artificial Intelligence, Informal Logic, Philosophy of Logic and Reasoning.
 
 # Links
 
@@ -13,6 +13,8 @@ Vedat Kamer is Assistant Professor at Istanbul University, Faculty of Letters, D
 * [https://kuzeyyildizi.com/kisiler/vedat.kamer](https://kuzeyyildizi.com/kisiler/vedat.kamer)
 * [https://open.spotify.com/user/vedat.kamer](https://open.spotify.com/user/vedat.kamer)
 * [https://www.last.fm/user/vedatkamer](https://www.last.fm/user/vedatkamer)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vedat.kamer&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=vedat.kamer&redirect=true)
 
 # Contact
 
