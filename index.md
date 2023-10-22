@@ -1,4 +1,4 @@
-![resim](https://github.com/vedatkamer/vedatkamer.github.io/assets/2077111/6e6ff39c-7686-4049-9674-fca5bcef48b3)Vedat Kamer is Assistant Professor at Istanbul University, Faculty of Letters, Department of Philosophy, Department of Logic and studies Applications of Logic, Artificial Intelligence, Informal Logic, Philosophy of Logic and Reasoning.
+Vedat Kamer is Assistant Professor at Istanbul University, Faculty of Letters, Department of Philosophy, Department of Logic and studies Applications of Logic, Artificial Intelligence, Informal Logic, Philosophy of Logic and Reasoning.
 
 # Links
 
